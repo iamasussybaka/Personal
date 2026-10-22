@@ -1,2 +1,2 @@
 # College-Projects
-A place to store view and update all projects completed and ongoing as well as work on them further if needed
+
